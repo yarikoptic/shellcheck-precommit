@@ -21,3 +21,6 @@ This repo keeps the pre-commit hook out of the critical path of ShellCheck
 releases, reducing the number of things that can go wrong. This in turn helps
 ensure a smoother `pre-commit autoupdate`. 
 
+#### Where to submit issues?
+
+If you find a defect, please submit an issue at [TODO](TODO).
